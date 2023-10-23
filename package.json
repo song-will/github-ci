@@ -1,0 +1,27 @@
+{
+  "name": "@exile_song/github-ci",
+  "version": "1.0.0",
+  "description": "github ci",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song-will/github-ci.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/song-will/github-ci/issues"
+  },
+  "homepage": "https://github.com/song-will/github-ci#readme"
+}
